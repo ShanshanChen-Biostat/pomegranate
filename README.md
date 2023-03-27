@@ -79,3 +79,5 @@ python setup.py test
 
 ## Introductions:
 [HMM for Multidimensional Categorical Data](https://medium.com/analytics-vidhya/hmm-for-multidimensional-categorical-data-68b1091c9d66)
+[How to build a Simple Hidden Markov Model with Pomegranate](https://medium.com/analytics-vidhya/how-to-build-a-simple-hidden-markov-models-with-pomegranate-dfa885b337fb)
+
